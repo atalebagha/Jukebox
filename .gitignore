@@ -1,5 +1,8 @@
 ### node etc ###
 
+# Sound Cloud Config
+clients/scripts/config.js
+
 # Logs
 logs
 *.log
